@@ -18,4 +18,4 @@ The sample images from each set have been visualized to better understand what t
 * Model training and evaluation has been done.
 
   
-*Fine-tuning of hyperparameters based on validation performance.Different architectures, hyperparameters, and optimization techniques have been experimented with to to improve model accuracy.
+* Fine-tuning of hyperparameters based on validation performance.Different architectures, hyperparameters, and optimization techniques have been experimented with to to improve model accuracy.
