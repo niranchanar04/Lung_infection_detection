@@ -7,7 +7,7 @@ The goal of the project is to enhance the accuracy of classification of lung ima
 ##### Motivation 
 Detection of lung infections, such as pneumonia or tuberculosis, is critical for timely diagnosis and treatment, as these conditions can lead to severe complications and even mortality if left untreated. With the increasing availability of medical imaging data, particularly chest X-rays and CT scans, there is a growing need for accurate and efficient methods to automatically identify and classify lung infections. Convolutional Neural Networks (CNNs) are well-suited for this task due to their ability to learn complex spatial patterns from images, enabling precise detection and classification of lung abnormalities with high sensitivity and specificity. 
 
-### The key steps taken :
+##### The key steps taken :
 * The dataset is explored to  understand its characteristics, such as the distribution of classes (e.g., infected vs. non-infected), the quality of images, and any patterns
 The sample images from each set have been visualized to better understand what the model will be analysing
 
